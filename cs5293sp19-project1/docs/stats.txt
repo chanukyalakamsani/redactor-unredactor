@@ -1,0 +1,17 @@
+
+
+Redaction information for: docs/input.txt
+	Number of names redacted: 77
+	Number of phone numbers redacted: 1
+	Number of addresses redacted: 2
+	Number of dates redacted: 0
+	Number of gendered words redacted: 0
+	Number of concept sentences redacted: 9
+
+Redaction information for: docs/input2.txt
+	Number of names redacted: 46
+	Number of phone numbers redacted: 0
+	Number of addresses redacted: 0
+	Number of dates redacted: 3
+	Number of gendered words redacted: 0
+	Number of concept sentences redacted: 6
